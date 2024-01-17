@@ -10,7 +10,7 @@ const Product = () => {
 
 
   const getData = () => {
-    axios.get("http://fakestoreapi.com/products/")
+    axios.get("https://fakestoreapi.com/products/")
       .then((res) => {
         if (res.status === 200) {
           console.log("api avaiable", res.data);
