@@ -11,7 +11,7 @@ const Home = () => {
          <div className="card text-bg-dark">
           <div className="image">
            <img
-            src="https://cdn-bijap.nitrocdn.com/AuMaQmessFRMSicXmZsEecJFLEquAyoT/assets/images/optimized/rev-6c8b18a/www.the-future-of-commerce.com/wp-content/uploads/2020/01/thumbnail-d771a7f4e38fcf7614f297ea6c90f497-1200x370.jpeg"
+            src="https://community.nasscom.in/sites/default/files/styles/960_x_600/public/media/images/57.png?itok=iesjjdzJ"
             className="card-img"
             alt=""
             height={550} />

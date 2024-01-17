@@ -11,7 +11,9 @@ const DetailPage = () => {
   const [loading, setLoading] = useState(false);
 
   const handelCart = (product) =>{
-   dispatch(addItems(product))
+   dispatch(addItems
+    
+    (product))
   }
 
   const getProduct = () => {
