@@ -19,7 +19,7 @@ const Product = () => {
         }
       })
       .catch((err) => {
-        console.log("not availabe", err);
+        console.log("not availabe data", err);
       });
   };
 
